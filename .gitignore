@@ -1,0 +1,18 @@
+# Environnement virtuel
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Données (téléchargées depuis Kaggle, voir README)
+data/*.csv
+
+# Modèles lourds
+models/*.pkl
+
+# Divers
+.DS_Store
+.vscode/
